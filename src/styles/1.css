@@ -1,0 +1,38 @@
+.niz {
+    position: absolute;
+    top: 4365px;
+    height: 135px;
+    width: 1400px;
+    background-color: #9E9E9E;
+    bottom: 15px;
+}
+
+.idoit {
+       float: right;
+       width: 400px;
+       position: absolute;
+}
+
+aside {
+           float: left;
+           position: relative;
+           margin-top: 120px;
+           padding-right: 100px;
+           width: 950px;
+}
+
+header p {
+       display: inline;
+}
+
+
+section section {
+display: table;
+}
+
+.im1 {
+filter: alpha(Opacity=50);
+-moz-opacity: 0.5;
+-khtml-opacity: 0.5;
+opacity: 0.5;
+}
